@@ -1,4 +1,6 @@
+#Feed Parser is a Python module for downloading and parsing syndicated feeds.
 import feedparser
+#This module provides regular expression matching operations similar to those found in Perl
 import re
 
 
